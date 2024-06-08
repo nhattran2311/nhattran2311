@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Introduction
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20of%20for%20Mylife;3+%2B%5years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20for%20Mylife;3+%2B%5years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <h3 align="center">👋 Hey there, I'm @nhattran2311</a></h3>
