@@ -1,7 +1,4 @@
-<!---
-nhattran2311/nhattran2311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ## Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=What%20you%20consume%20will%20control%20your%20life;&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
